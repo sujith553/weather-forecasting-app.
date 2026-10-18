@@ -4,7 +4,7 @@ SkySync is a weather forecasting app that provides accurate and up-to-date weath
 
 ## Features
 
-- **Current Weather**: Displays the current temperature for a selected city.
+- **Current Weather**: Displays the current temperature for a selected city..
 - **Today's Forecast**: Shows weather details for every 3 hours starting from 6 AM.
 - **7-Day Forecast**: Provides weather predictions for the upcoming week.
 - **Air Conditions**: Real feel, wind speed, chance of rain, and UV index.
