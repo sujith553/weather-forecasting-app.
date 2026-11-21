@@ -1,4 +1,4 @@
-# SkySync - Weather Forecasting App!
+# SkySync - Weather Forecasting App
 
 SkySync is a weather forecasting app that provides accurate and up-to-date weather information for any city. The app displays the current temperature, a detailed weather forecast for today in 3-hour intervals, and weather predictions for the next 7 days. It also includes air conditions like real feel, wind speed, chance of rain, and UV index. Additionally, SkySync features a data visualization page with bar and pie charts, offering a clear and concise view of weather data.
 
